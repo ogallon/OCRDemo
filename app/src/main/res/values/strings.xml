@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCRDemo</string>
+    <string name="select_picture_text">Select a Picture</string>
+    <string name="select_text">Select</string>
+</resources>
